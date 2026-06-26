@@ -1,4 +1,4 @@
-﻿# Complex Task Agent Demo
+﻿# Intent-to-Execution-Agent Demo
 
 Chinese documentation: [README_CN.md](README_CN.md)
 
