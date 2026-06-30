@@ -87,7 +87,7 @@ See the full guide: [docs/DEMO_GUIDE.md](docs/DEMO_GUIDE.md).
 
 ## Documentation
 
-- Product specification: [docs/PROJECT_2_AGENT_USER_FLOW_SPEC.md](docs/PROJECT_2_AGENT_USER_FLOW_SPEC.md)
+- Product specification: [docs/INTENT2EXECUTION_AGENT_USER_FLOW_SPEC.md)
 - Demo guide: [docs/DEMO_GUIDE.md](docs/DEMO_GUIDE.md)
 
 ## Notes
