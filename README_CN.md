@@ -87,7 +87,7 @@ npm run preview
 
 ## 文档
 
-- 产品规格：[docs/PROJECT_2_AGENT_USER_FLOW_SPEC.md](docs/PROJECT_2_AGENT_USER_FLOW_SPEC.md)
+- 产品规格：[docs/INTENT2EXECUTION_AGENT_USER_FLOW_SPEC.md](docs/INTENT2EXECUTION_AGENT_USER_FLOW_SPEC.md)
 - Demo 指南：[docs/DEMO_GUIDE.md](docs/DEMO_GUIDE.md)
 
 ## 说明
